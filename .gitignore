@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables (Sensitive)
+.env
+
+# Vector Database (Local Storage)
+chroma_db/
+chroma_db_*
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary Debug Scripts
+inspect_lc.py
