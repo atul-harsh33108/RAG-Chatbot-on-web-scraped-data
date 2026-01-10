@@ -114,4 +114,4 @@ Type `exit` or `quit` to close the application.
 *   **ModuleNotFoundError**: Ensure you activated the virtual environment before running the script.
 
 ---
-*Created for the BotPenguin Assignment by [Your Name]*
+*Created for the BotPenguin Assignment by Atul Harsh*
